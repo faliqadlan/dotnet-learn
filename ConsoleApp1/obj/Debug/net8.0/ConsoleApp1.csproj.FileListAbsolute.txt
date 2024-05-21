@@ -1,0 +1,14 @@
+D:\ngoding\roketin\dotnet-learn\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\ngoding\roketin\dotnet-learn\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\ngoding\roketin\dotnet-learn\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\ngoding\roketin\dotnet-learn\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\ngoding\roketin\dotnet-learn\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\ngoding\roketin\dotnet-learn\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ngoding\roketin\dotnet-learn\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\ngoding\roketin\dotnet-learn\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\ngoding\roketin\dotnet-learn\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ngoding\roketin\dotnet-learn\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\ngoding\roketin\dotnet-learn\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\ngoding\roketin\dotnet-learn\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\ngoding\roketin\dotnet-learn\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\ngoding\roketin\dotnet-learn\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
